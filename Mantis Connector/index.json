@@ -1,0 +1,31 @@
+{
+  "name": "Mantis",
+  "description": "A Mantis connector",
+  "triggers": [],
+  "actions": [
+    "/v1/get_an_issue",
+    "/v1/create_an_issue",
+    "/v1/delete_an_issue",
+    "/v1/create_an_issue_note",
+    "/v1/delete_an_issue_note",
+    "/v1/get_all_issues",
+    "/v1/get_issues_for_a_project",
+    "/v1/update_an_issue",
+    "/v1/monitor_an_issue",
+    "/v1/add_attachments_to_issue",
+    "/v1/get_all_projects",
+    "/v1/get_a_project",
+    "/v1/create_a_project",
+    "/v1/update_a_project",
+    "/v1/delete_a_project",
+    "/v1/add_a_subproject",
+    "/v1/update_a_subproject",
+    "/v1/delete_a_subproject"
+  ],
+  "version": 1,
+  "auth_type": "apikey",
+  "doc_link": "",
+  "appId": "074481d4-108a-4148-a643-38713913891d",
+  "guid": "e485e7dc-af50-474e-ae2e-7bf077112f21",
+  "connectionUid": "mantis-9WU29AM96"
+}
